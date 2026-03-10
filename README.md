@@ -7,13 +7,13 @@ TODO: make prettier? idk man
 
 # About Me:
 - Finnish hobbyist backend developer and a cybersecurity enjoyer
-- Somewhat experienced in Java, C and Python
+- Somewhat experienced in Java, C, Lisp, and Python
 - Christ is Lord!
 - I use Arch Linux, btw
 - 日本語を勉強している
 - 日本に行きたい
 
-Contact me at `lattiahirvio@proton.me` for any business inquiries and other such communication.
+Contact me at `lattiahirvio [at] proton.me` for any business inquiries and other such communication.
 
 PGP key signature:
 
