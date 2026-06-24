@@ -11,7 +11,7 @@ TODO: make prettier? idk man
 - Christ is Lord!
 - I use Arch Linux, btw
 - 日本語を勉強している
-- 日本に行きたい
+- 大阪が大好き
 
 Contact me at `lattiahirvio [at] proton.me` for any business inquiries and other such communication.
 
